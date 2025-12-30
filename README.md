@@ -7,7 +7,7 @@
   https://github.com/kimgeuneon/dialect-to-dialect-transfer
 
 - **Psychiatric Consultation Chatbot**  
-  https://github.com/kimgeuneon/Chatbot-for-psychiatric-consultation
+  https://github.com/Chatbot-for-psychiatric-consultation
 
 ## 👁️ Vision AI
 - **Personal Color Analysis**  
